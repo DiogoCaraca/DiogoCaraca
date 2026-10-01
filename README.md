@@ -27,13 +27,6 @@ I'm Diogo, a full-stack engineer based in Zurich, working mainly in Laravel, Vue
 
 Right now that's at siabit AG, on ForstControl, an ERP system for the forestry sector. Alongside that 80% job, I'm studying for a BSc in Computer Science at FFHS.
 
-## `// how I build`
-
-- **Own the whole path.** Requirements → architecture → build → test → go-live.
-- **One contract, many adapters.** My go-to when one core has to talk to several outside systems.
-- **Requirements before code.** Pin down what's needed with the customer first.
-- **Test what ships.** Testing is part of the build, not an afterthought.
-
 ## `// stack`
 
 **daily**
