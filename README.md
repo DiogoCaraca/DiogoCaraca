@@ -7,7 +7,7 @@
 <p>
   <a href="https://diogocaraca.github.io"><img src="https://img.shields.io/badge/diogocaraca.github.io-0E1016?style=for-the-badge&logo=astro&logoColor=00E5FF" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/diogo-caraca/"><img src="https://img.shields.io/badge/LinkedIn-0E1016?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://www.boot.dev/u/well-documentedoutside66"><img src="https://img.shields.io/badge/Boot.dev-0E1016?style=for-the-badge" alt="Boot.dev" /></a>
+  <a href="https://www.boot.dev/u/diogo-caraca"><img src="https://img.shields.io/badge/Boot.dev-0E1016?style=for-the-badge" alt="Boot.dev" /></a>
   <img src="https://img.shields.io/badge/Zurich,_Switzerland-0E1016?style=for-the-badge&logo=googlemaps&logoColor=FF2E97" alt="Zurich, Switzerland" />
 </p>
 
