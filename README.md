@@ -7,6 +7,7 @@
 <p>
   <a href="https://diogocaraca.github.io"><img src="https://img.shields.io/badge/diogocaraca.github.io-0E1016?style=for-the-badge&logo=astro&logoColor=00E5FF" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/diogo-caraca/"><img src="https://img.shields.io/badge/LinkedIn-0E1016?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.boot.dev/u/well-documentedoutside66"><img src="https://img.shields.io/badge/Boot.dev-0E1016?style=for-the-badge" alt="Boot.dev" /></a>
   <img src="https://img.shields.io/badge/Zurich,_Switzerland-0E1016?style=for-the-badge&logo=googlemaps&logoColor=FF2E97" alt="Zurich, Switzerland" />
 </p>
 
@@ -40,6 +41,10 @@ Right now that's at siabit AG, on ForstControl, an ERP system for the forestry s
 **exploring**
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-252437?style=for-the-badge&logo=googlecloud&logoColor=B18CFF) ![Terraform](https://img.shields.io/badge/Terraform-252437?style=for-the-badge&logo=terraform&logoColor=B18CFF) ![Kubernetes](https://img.shields.io/badge/Kubernetes-252437?style=for-the-badge&logo=kubernetes&logoColor=B18CFF) ![Python](https://img.shields.io/badge/Python-252437?style=for-the-badge&logo=python&logoColor=B18CFF) ![AI-assisted development](https://img.shields.io/badge/AI--assisted_development-252437?style=for-the-badge)
+
+## `// certificates`
+
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/4ef8a796-1432-4f4a-9c0a-1d3e89c40d1d.jpeg?v=1791642850)](https://www.boot.dev/certificates/4ef8a796-1432-4f4a-9c0a-1d3e89c40d1d)
 
 ## `// featured`
 
